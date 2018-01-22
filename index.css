@@ -1,0 +1,27 @@
+body {
+    padding: 0;
+    margin-left: 20px;
+}
+
+.form {
+    width: 240px;
+    height: 150px;
+}
+
+.form label {
+    float: right;
+    padding-bottom: 10px;
+}
+
+.form button {
+    float: right;
+}
+
+.output {
+    width: 500px;
+    height: 400px;
+}
+
+.stop {
+    display: none;
+}
